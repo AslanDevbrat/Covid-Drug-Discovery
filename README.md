@@ -1,4 +1,8 @@
 ﻿# Covid19 Drug Discovery
+## Medium Publication
+
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@devbrat9156/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@devbrat9156/2" alt="Recent Article 2"> </a>
+
 Project1.ipynb is the file which contain all the code for this project. You will need following extra libraries to run that jupyter notebook
 
 
